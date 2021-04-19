@@ -1,0 +1,17 @@
+{
+  "name": "fraktio-robottikurssi",
+  "displayName": "Fraktio - Robottikurssi",
+  "description": "Tee Oma Työrobottisi -kurssin tarvittavat lisäosat.",
+  "version": "0.0.1",
+  "publisher": "IlmariKumpula",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "python.python",
+    "magicstack.MagicPython"
+  ]
+}
