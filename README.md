@@ -3,3 +3,7 @@
 # This extension installs Python, Ipython and MagicPython to the Visual Code to be used at the course
 
 # Ilmari Kumpula, Fraktio Oy
+
+`vsce package`
+
+`vsce publish`
