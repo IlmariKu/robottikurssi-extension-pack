@@ -1,9 +1,5 @@
-# Fraktio - Tee oma työrobottisi -lisäosat
+## Tee oma työrobottisi-kurssilla vaaditut VSCode-lisäosat
 
-# This extension installs Python, Ipython and MagicPython to the Visual Code to be used at the course
+Tämä laajennus asentaa tarvittavat lisäosat Työrobotti-kurssille osallistumista varten yhdessä paketissa.
 
-# Ilmari Kumpula, Fraktio Oy
-
-`vsce package`
-
-`vsce publish`
+Ilmari Kumpula, Fraktio Oy

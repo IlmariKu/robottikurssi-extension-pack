@@ -2,7 +2,7 @@
   "name": "fraktio-robottikurssi",
   "displayName": "Fraktio - Robottikurssi",
   "description": "Tee Oma Työrobottisi -kurssin tarvittavat lisäosat.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "IlmariKumpula",
   "repository": "https://github.com/IlmariKu/robottikurssi-extension-pack",
   "icon": "fraktio-logo.png",
